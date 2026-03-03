@@ -50,9 +50,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img height="200" src="https://camo.githubusercontent.com/a2fc3909e65ff54fbf71ec57586d43a9f14bbe4788ec3a0dad13820f043b53fc/68747470733a2f2f66696c65732e636174626f782e6d6f652f7976393468692e6a706567"  />
-</div>
-
-###
