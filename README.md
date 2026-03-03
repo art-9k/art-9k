@@ -1,4 +1,4 @@
-<h2 align="left">welcome :)</h2>
+<h2 align="left">a game lover</h2>
 
 ###
 
