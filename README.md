@@ -25,12 +25,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/a9k/a9k/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -40,7 +36,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" height="40" alt="linux logo"  />
 </div>
 
 ###
@@ -49,8 +45,14 @@
 
 ###
 
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox_light"  />
+</div>
+
+###
+
 <div align="center">
-  <img height="200" src="https://files.catbox.moe/yv94hi.jpeg"  />
+  <img height="200" src="https://camo.githubusercontent.com/a2fc3909e65ff54fbf71ec57586d43a9f14bbe4788ec3a0dad13820f043b53fc/68747470733a2f2f66696c65732e636174626f782e6d6f652f7976393468692e6a706567"  />
 </div>
 
 ###
