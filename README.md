@@ -25,7 +25,7 @@
 
 ###
 
-<h4 align="center"><<< Hello, welcome!<br><br>I'm a systems and network developer and analyst, proficient in Python and C#, and experienced in configuring telecom equipment. In my free time, I'm an enthusiast of creating video games, exploring the Creative Core for soundtracks and art. >>></h4>
+<h4 align="center">[Hello, welcome!]<br><br>I'm a systems and network developer and analyst, proficient in Python and C#, and experienced in configuring telecom equipment. In my free time, I'm an enthusiast of creating video games, exploring the Creative Core for soundtracks and art.</h4>
 
 ###
 
